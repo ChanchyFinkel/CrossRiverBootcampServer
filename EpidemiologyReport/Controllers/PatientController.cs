@@ -1,4 +1,4 @@
-﻿using EpidemiologyReport.DB;
+﻿using EpidemiologyReport.DL;
 using EpidemiologyReport.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -15,31 +15,31 @@ namespace EpidemiologyReport.Controllers
     public class PatientController : ControllerBase
     {
 
-        IDAL _dal;
-        public PatientController(IDAL dal)
+        IPatientDL _patientDL;
+        public PatientController(IPatientDL patientDL)
         {
-            _dal = dal;
+            _patientDL = patientDL;
            
         }
         // GET
         [HttpGet("location")]
         public async Task<List<Patient>> Get()
         {
-            return await _dal.getAllLocations();   
+            return await _patientDL.getAllLocations();   
         }
 
         // GET
         [HttpGet("{id}/location")]
         public async Task<Patient> Get(int id)
         {
-          return  await _dal.getLocationByPatientId(id);
+          return  await _patientDL.getLocationByPatientId(id);
         }
 
         // GET
         [HttpGet("city/location")]
         public async Task<List<Report>> Get([FromQuery]String city="")
         {
-            var r= await _dal.getLocationByCity(city);
+            var r= await _patientDL.getLocationByCity(city);
             return r;
         }
 
@@ -47,14 +47,14 @@ namespace EpidemiologyReport.Controllers
         [HttpPost("location")]
         public async Task<Boolean> Post([FromBody] Patient newPatient)
         {
-            return await _dal.addNewLocation(newPatient);
+            return await _patientDL.addNewLocation(newPatient);
         }
 
         // DELETE 
         [HttpDelete("location")]
         public async Task<int> Delete([FromBody] Patient deletedLocation)
         {
-            return await _dal.DeleteLocation(deletedLocation);
+            return await _patientDL.DeleteLocation(deletedLocation);
         }
     }
 }

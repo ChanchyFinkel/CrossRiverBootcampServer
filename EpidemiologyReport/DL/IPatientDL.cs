@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace EpidemiologyReport.DB
+namespace EpidemiologyReport.DL
 {
-    public interface IDAL
+    public interface IPatientDL
     {
         public Task<List<Patient>> getAllLocations();
         public Task<List<Report>> getLocationByCity(string city);

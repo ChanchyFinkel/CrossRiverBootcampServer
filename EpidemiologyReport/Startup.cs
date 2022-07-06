@@ -1,4 +1,4 @@
-using EpidemiologyReport.DB;
+using EpidemiologyReport.DL;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -42,7 +42,7 @@ namespace EpidemiologyReport
                     .AllowAnyMethod();
                 });
             });
-            services.AddScoped<IDAL, Dal>();
+            services.AddScoped<IPatientDL, PateintDL>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

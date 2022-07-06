@@ -7,9 +7,9 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.IO;
 
-namespace EpidemiologyReport.DB
+namespace EpidemiologyReport.DL
 {
-    public class Dal : IDAL
+    public class PateintDL : IPatientDL
     {
         public async Task<List<Patient>> getAllLocations()
         {

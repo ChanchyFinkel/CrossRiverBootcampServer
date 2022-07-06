@@ -1,0 +1,72 @@
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\appsettings.json
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\EpidemiologyReport.exe
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\EpidemiologyReport.deps.json
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\EpidemiologyReport.runtimeconfig.json
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\EpidemiologyReport.runtimeconfig.dev.json
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\EpidemiologyReport.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\ref\EpidemiologyReport.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\EpidemiologyReport.pdb
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Humanizer.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.csproj.AssemblyReference.cache
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.AssemblyInfoInputs.cache
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.AssemblyInfo.cs
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.csproj.CoreCompileInputs.cache
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\staticwebassets\EpidemiologyReport.StaticWebAssets.Manifest.cache
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\staticwebassets\EpidemiologyReport.StaticWebAssets.xml
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\scopedcss\bundle\EpidemiologyReport.styles.css
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.RazorTargetAssemblyInfo.cache
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.csproj.CopyComplete
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\ref\EpidemiologyReport.dll
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.pdb
+C:\Users\chanchy\Desktop\בוטקמפ crossRiver\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.genruntimeconfig.cache
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\appsettings.json
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\EpidemiologyReport.exe
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\EpidemiologyReport.deps.json
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\EpidemiologyReport.runtimeconfig.json
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\EpidemiologyReport.runtimeconfig.dev.json
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\EpidemiologyReport.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\ref\EpidemiologyReport.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\EpidemiologyReport.pdb
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.AssemblyInfoInputs.cache
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.AssemblyInfo.cs
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.csproj.CoreCompileInputs.cache
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\staticwebassets\EpidemiologyReport.StaticWebAssets.Manifest.cache
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\staticwebassets\EpidemiologyReport.StaticWebAssets.xml
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\scopedcss\bundle\EpidemiologyReport.styles.css
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.RazorTargetAssemblyInfo.cache
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.csproj.CopyComplete
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\ref\EpidemiologyReport.dll
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.pdb
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.genruntimeconfig.cache
+C:\Users\Shira058\Desktop\Week 2\EpidemiologyReport\EpidemiologyReport\obj\Debug\net5.0\EpidemiologyReport.csproj.AssemblyReference.cache

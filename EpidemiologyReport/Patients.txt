@@ -1,0 +1,2 @@
+{"Id":1,"reports":[{"startDate":"2022-07-07T00:05:00","endDate":"2022-07-08T00:05:00","location":"BB","city":"pharm"}]}
+{"Id":2,"reports":[{"startDate":"2022-07-07T00:05:00","endDate":"2022-07-08T00:05:00","location":"TLV","city":"sea"},{"startDate":"2022-07-07T02:08:00","endDate":"2022-07-11T00:08:00","location":"TLV","city":"market"}]}
